@@ -1,0 +1,17 @@
+// LIST
+                    {/*   1st method --css  */}
+                    <List display={"flex"}>
+                    1st method --css 
+                    </List>
+                     {/*   2nd method --css  */}
+                    <List sx={{
+                      display:"flex"
+                    }}>
+2nd method --css 
+                    </List>
+                    {/* 3rd Method  --css */}
+
+                    <List style={{
+                      display:"flex"
+                    }}>
+3rd
